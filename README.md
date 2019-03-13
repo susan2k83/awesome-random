@@ -44,7 +44,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
 
 #### Chrome
-## [Paletton]  (http://www.paletton.com) - an awesome color picker
+- [Paletton](http://www.paletton.com) - an awesome color picker
 
 ## crypto
 
